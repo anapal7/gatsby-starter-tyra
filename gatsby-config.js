@@ -107,6 +107,12 @@ module.exports = {
         }
       }
     },
+     {
+    resolve: 'gatsby-plugin-canonical-urls',
+    options: {
+      siteUrl: 'https://angry-bassi-9cc011.netlify.com/',
+    },
+  },
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
