@@ -41,7 +41,7 @@ const SliderMenu = (props) => {
         </MultiLink>
       ))}
       <Link
-        to="/about"
+        to="/abou/t"
         className={"sans-serif ttu mid-gray f5 no-underline menu__item pv3" + extraClasses}
       >About</Link>
     </div>
