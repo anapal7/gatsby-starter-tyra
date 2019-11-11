@@ -13,7 +13,7 @@ export default (props) => (
     <div className="pa2 lh-copy serif tc mb3 h3">
       {props.description} 
     </div>
-    <div className="pa2 flex justify-end serif h3">Read More</div>
+    <Link className="db pv3 ph5 tracked ttu b bg-washed-red dark-gray sans-serif no-underline hover-gray" to={props.to}>Read More</Link>
     </div>
   </div>
 )
