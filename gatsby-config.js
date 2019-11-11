@@ -5,7 +5,7 @@ module.exports = {
       {to: "/lifestyle/", name: "Lifestyle"},
       {to: "/blog/", name: "blog"},
     ],
-    title: "TYRA",
+    title: "Ana Palacios",
     description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
     siteUrl: "https://tyra-starter.netlify.com",
     homepageHeader: "Welcome to Your New Blog",
