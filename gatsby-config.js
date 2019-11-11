@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     navbarLinks: [
-      {to: "/makeup/", name: "Makeup"},
-      {to: "/lifestyle/", name: "Lifestyle"},
+      {to: "/makeup/", name: "Portfolio"},
+      {to: "/lifestyle/", name: "Experience"},
       {to: "/blog/", name: "blog"},
     ],
     title: "Ana Palacios",
