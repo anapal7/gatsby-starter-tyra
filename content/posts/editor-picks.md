@@ -6,7 +6,7 @@ author: "Jane Doe"
 category: "makeup"
 date: "2018-01-04"
 slug: "/editors-picks/"
-postImage: "./img/flatlay.jpg"
+postImage: "./img/volunteer.jpg"
 metaDescription: "We went over the best new products and tried them all. Here's what's hot and what's not!"
 
 ---
