@@ -118,3 +118,7 @@
   background-color: #eee;
   white-space: pre-wrap;
 }
+
+.bg-washed-red {
+  background-color: #DFFFDF;
+}
