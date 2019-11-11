@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     navbarLinks: [
-      {to: "/makeup", name: "Makeup"},
-      {to: "/lifestyle", name: "Lifestyle"},
-      {to: "/blog", name: "blog"},
+      {to: "/makeup/", name: "Makeup"},
+      {to: "/lifestyle/", name: "Lifestyle"},
+      {to: "/blog/", name: "blog"},
     ],
     title: "TYRA",
     description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
