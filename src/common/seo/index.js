@@ -18,6 +18,7 @@ export default props => (
       <Helmet>
         <title>{props.title.replace(/\b\w/g, letter => letter.toUpperCase()) + " - " + data.site.siteMetadata.title}</title>
         <meta name="description" content={props.description} />
+         <link rel="canonical" href="${data.site.siteMetadata.siteUrl}${props.slug}" />
       </Helmet>
     )} />
 )
