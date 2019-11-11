@@ -9,7 +9,7 @@ import '../styles/custom.tachyons.css';
 export default (props) => (
   <React.Fragment>
     <Helmet>
-      <body className="bg-near-white mid-gray" />
+      <body className="bg-washed-green dark-gray" />
     </Helmet>
     <Navbar />
     {props.children}
