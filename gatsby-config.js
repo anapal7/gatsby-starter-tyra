@@ -19,7 +19,7 @@ module.exports = {
     twitter: "", // YOUR TWITTER PROFILE HERE
   },
   plugins: [
-    'gatsby-plugin-sitemap',
+    'gatsby-plugin-advanced-sitemap',
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
