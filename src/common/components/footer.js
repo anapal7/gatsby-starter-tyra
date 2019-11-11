@@ -79,12 +79,12 @@ export default () => (
           </div>
           <div className="flex flex-column">
             <span className="near-white sans-serif f5 tracked mb3 db">WRITING BY {data.site.siteMetadata.siteTitle}</span>
-            <Link to="/blog" className="near-white sans-serif f5 tracked pv1 db">ALL POSTS</Link>
+            <Link to="/blog/" className="near-white sans-serif f5 tracked pv1 db">ALL POSTS</Link>
             <Link to="/rss.xml" className="near-white sans-serif f5 tracked pv1 db">RSS FEED</Link>
           </div>
           <div className="flex flex-column">
             <span className="near-white sans-serif f5 tracked mb3 db">MORE ON {data.site.siteMetadata.siteTitle}</span>
-            <Link to="/about" className="near-white sans-serif f5 tracked pv1 db">ABOUT US</Link>
+            <Link to="/about/" className="near-white sans-serif f5 tracked pv1 db">ABOUT US</Link>
             <a href={data.site.siteMetadata.mailChimpUrl} className="near-white sans-serif f5 tracked pv1 db">NEWS LETTER</a>
           </div>
         </div>
@@ -93,7 +93,7 @@ export default () => (
           <div className="flex w-100 mw6 items-center justify-center justify-start-ns">
             <a href="/sitemap.xml" className="silver sans-serif f5 tracked pv1 db mh1">SITEMAP</a>
             <span className="mh1">|</span>
-            <Link to="/privacy" className="silver sans-serif f5 tracked pv1 db mh1">PRIVACY</Link>
+            <Link to="/privacy/" className="silver sans-serif f5 tracked pv1 db mh1">PRIVACY</Link>
             <span className="mh1">|</span>
             <a href="https://github.com/madelyneriksen/gatsby-starter-tyra" className="silver sans-serif f5 tracked pv1 db mh1">THEME</a>
           </div>
