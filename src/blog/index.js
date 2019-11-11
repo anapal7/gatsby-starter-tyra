@@ -23,7 +23,7 @@ export default class BlogIndex extends React.Component {
         <div className="mw9 center">
           <Breadcrumbs
             lastName="Blog"
-            lastPath="/blog"
+            lastPath="/blog/"
             currentPage={`Page ${this.props.pageContext.pageNumber}`} />
           {posts.map(({node}) => (
             <Preview
