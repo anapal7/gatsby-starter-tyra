@@ -7,7 +7,7 @@ module.exports = {
     ],
     title: "Ana Palacios",
     description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
-    siteUrl: "https://tyra-starter.netlify.com",
+    siteUrl: "https://angry-bassi-9cc011.netlify.com/",
     homepageHeader: "Welcome to Your New Blog",
     homepageAbout: "Tyra is a modern, sleek and feminine Gatsby.js theme. Easily create a beautiful and fast blog and draw attention to your stellar content.",
     mailChimpUrl: "https://mailchimp.com",
@@ -23,12 +23,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
-{
-    resolve: `gatsby-plugin-canonical-urls`,
-    options: {
-      siteUrl: `https://angry-bassi-9cc011.netlify.com/`,
-    },
-  },
     {
       resolve: 'gatsby-plugin-feed',
       options: {
