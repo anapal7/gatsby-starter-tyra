@@ -10,7 +10,6 @@ export default (props) => (
   <React.Fragment>
     <Helmet>
       <body className="bg-near-white mid-gray" />
-<link rel="canonical" href="http://mysite.com/example" />
     </Helmet>
     <Navbar />
     {props.children}
