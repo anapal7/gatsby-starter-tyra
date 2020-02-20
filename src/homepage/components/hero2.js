@@ -1,10 +1,10 @@
 import React from "react"
 import Img from 'gatsby-image';
 import { StaticQuery, graphql } from 'gatsby';
-import { Link } from 'gatsby';
 import '../../common/styles/custom.tachyons.css'
 import 'tachyons';
 
+export default () => (
  <StaticQuery
       query={graphql`
         query {
