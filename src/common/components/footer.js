@@ -95,7 +95,6 @@ export default () => (
             <span className="mh1">|</span>
             <Link to="/privacy/" className="silver sans-serif f5 tracked pv1 db mh1">PRIVACY</Link>
             <span className="mh1">|</span>
-            <a href="https://github.com/madelyneriksen/gatsby-starter-tyra" className="silver sans-serif f5 tracked pv1 db mh1">THEME</a>
           </div>
         </div>
         <div className="w-100 mw9 silver center sans-serif f6">
