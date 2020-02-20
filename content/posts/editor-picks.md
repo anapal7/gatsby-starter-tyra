@@ -5,7 +5,7 @@ title: "SEO, Analytics and CRO remotely"
 author: "Jane Doe"
 category: "makeup"
 date: "2018-01-04"
-slug: "/editors-picks/"
+slug: "/seo-nomad-life/"
 postImage: "./img/volunteer.jpg"
 metaDescription: "How I change working in the bank office to start working around the world."
 
