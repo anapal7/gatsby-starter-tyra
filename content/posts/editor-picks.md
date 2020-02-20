@@ -1,7 +1,7 @@
 ---
 
 type: "post"
-title: "SEO, Analytics and SEO remotely"
+title: "SEO, Analytics and CRO remotely"
 author: "Jane Doe"
 category: "makeup"
 date: "2018-01-04"
