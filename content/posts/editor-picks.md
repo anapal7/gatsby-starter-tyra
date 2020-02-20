@@ -1,13 +1,13 @@
 ---
 
 type: "post"
-title: "Must-Have Products Selected by Tyra's Editors"
+title: "SEO, Analytics and SEO remotely"
 author: "Jane Doe"
 category: "makeup"
 date: "2018-01-04"
 slug: "/editors-picks/"
 postImage: "./img/volunteer.jpg"
-metaDescription: "We went over the best new products and tried them all. Here's what's hot and what's not!"
+metaDescription: "How I change working in the bank office to start working around the world."
 
 ---
 
