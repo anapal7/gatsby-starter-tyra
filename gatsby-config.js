@@ -5,7 +5,7 @@ module.exports = {
       {to: "/lifestyle/", name: "Experience"},
       {to: "/blog/", name: "blog"},
     ],
-    title: "Ana Palacios - SEO Nomad",
+    title: "SEO Nomad",
     description: "Doing SEO and Travelling around the world.",
     siteUrl: "https://angry-bassi-9cc011.netlify.com/",
     homepageHeader: "Looking to Optimize your website",
