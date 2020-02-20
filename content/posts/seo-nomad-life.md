@@ -2,11 +2,11 @@
 
 type: "post"
 title: "SEO, Analytics and CRO remotely"
-author: "Jane Doe"
-category: "makeup"
+author: "Ana Palacios"
+category: "nomad life"
 date: "2018-01-04"
 slug: "/seo-nomad-life/"
-postImage: "./img/volunteer.jpg"
+postImage: "./img/background.jpg"
 metaDescription: "How I change working in the bank office to start working around the world."
 
 ---
