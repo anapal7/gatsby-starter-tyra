@@ -13,9 +13,7 @@ module.exports = {
     mailChimpToken: "MAILCHIMP TOKEN HERE",
     youtube: "", // YOUR YOUTUBE PROFILE HERE
     github: "", // YOUR GITHUB PROFILE HERE 
-    linkedin: "https://www.linkedin.com/in/anapalaciosrueda/", // YOUR PINTEREST PROFILE HERE
-    facebook: "", // YOUR FACEBOOK PROFILE HERE
-    twitter: "", // YOUR TWITTER PROFILE HERE
+
   },
   plugins: [
     'gatsby-plugin-sitemap',
