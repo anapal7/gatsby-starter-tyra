@@ -2,9 +2,8 @@ module.exports = {
   siteMetadata: {
     navbarLinks: [
       {to: "/makeup/", name: "Portfolio"},
-      {to: "/lifestyle/", name: "Experience"},
-      {to: "/blog/", name: "blog"},
-    ],
+      {to: "/lifestyle/", name: "Experiences"},
+         ],
     title: "SEO Nomad",
     description: "Doing SEO and Travelling around the world.",
     siteUrl: "https://angry-bassi-9cc011.netlify.com/",
@@ -14,7 +13,7 @@ module.exports = {
     mailChimpToken: "MAILCHIMP TOKEN HERE",
     youtube: "", // YOUR YOUTUBE PROFILE HERE
     github: "", // YOUR GITHUB PROFILE HERE 
-    pinterest: "", // YOUR PINTEREST PROFILE HERE
+    linkedin: "https://www.linkedin.com/in/anapalaciosrueda/", // YOUR PINTEREST PROFILE HERE
     facebook: "", // YOUR FACEBOOK PROFILE HERE
     twitter: "", // YOUR TWITTER PROFILE HERE
   },
