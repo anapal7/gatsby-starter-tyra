@@ -1,7 +1,7 @@
 ---
 
 type: "post"
-title: "Gorgeous Makeup Looks For This Winter"
+title: "Work & Holiday in Australia"
 author: "Jane Doe"
 category: "makeup"
 date: "2018-01-01"
