@@ -26,23 +26,23 @@ const SliderMenu = (props) => {
   return (
     <div
       className={
-        "flex flex-column justify-center items-center bg-washed-red fixed top z-max w-100 ease" + (props.active ? " vh-93" : " h0")
+        "flex flex-column justify-center items-center bg-dark-blue fixed top z-max w-100 ease" + (props.active ? " vh-93" : " h0")
       }>
       <Link
         to="/"
-        className={"display ttu tracked dark-gray f3 no-underline menu__item pv5" + extraClasses}
+        className={"display ttu tracked white f3 no-underline menu__item pv5" + extraClasses}
       >{props.siteTitle}
       </Link>
       {props.extraLinks.map(navLink => (
         <MultiLink
           to={navLink.to}
-          className={"sans-serif ttu mid-gray f5 no-underline menu__item pv3" + extraClasses}
+          className={"sans-serif ttu white f5 no-underline menu__item pv3" + extraClasses}
         >{navLink.name}
         </MultiLink>
       ))}
       <Link
         to="/about/"
-        className={"sans-serif ttu mid-gray f5 no-underline menu__item pv3" + extraClasses}
+        className={"sans-serif ttu white f5 no-underline menu__item pv3" + extraClasses}
       >About</Link>
     </div>
   )
@@ -100,7 +100,7 @@ export default class Navbar extends React.Component {
               ))}
             </div>
             <div className="dn w-100 mw5 flex-l justify-around items-center">
-              <a href={data.site.siteMetadata.mailChimpUrl} className="sans-serif ttu light-red f5 no-underline dn dib-l">SIGN UP</a>
+              <a href={data.site.siteMetadata.mailChimpUrl} className="sans-serif ttu light-blue f5 no-underline dn dib-l">SIGN UP</a>
               <span className="sans-serif mid-gray dn dib-l">|</span>
               <Link to="/about/" className="sans-serif ttu mid-gray f5 no-underline dn dib-l">ABOUT</Link>
             </div>
