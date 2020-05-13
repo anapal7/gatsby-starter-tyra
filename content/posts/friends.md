@@ -1,13 +1,13 @@
 ---
 
 type: "post"
-title: "The Secret to Sincere Friends? Be Yourself."
+title: "Volunteering at Fifa World Cup 2014."
 author: "Jane Doe"
 category: "lifestyle"
 date: "2018-01-02"
 slug: "/be-yourself"
 postImage: "./img/friends.jpg"
-metaDescription: "Building friendships as an adult is really, really hard. Our advice? Just be yourself, you'll get there."
+metaDescription: "In 2014 I spent 3 months in Rio de Janeiro volunteering in the Fifa World Cup."
 
 ---
 
