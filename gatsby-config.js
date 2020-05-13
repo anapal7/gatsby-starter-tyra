@@ -12,7 +12,10 @@ module.exports = {
     mailChimpUrl: "https://mailchimp.com",
     mailChimpToken: "MAILCHIMP TOKEN HERE",
     youtube: "", // YOUR YOUTUBE PROFILE HERE
-    github: "", // YOUR GITHUB PROFILE HERE 
+    github: "", // YOUR GITHUB PROFILE HERE
+    pinterest: "", // YOUR PINTEREST PROFILE HERE	  
+    facebook: "", // YOUR FACEBOOK PROFILE HERE	    
+    twitter: "", // YOUR TWITTER PROFILE HERE
 
   },
   plugins: [
