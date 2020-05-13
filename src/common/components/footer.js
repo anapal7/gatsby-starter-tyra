@@ -79,13 +79,13 @@ export default () => (
           </div>
           <div className="flex flex-column">
             <span className="near-white sans-serif f5 tracked mb3 db">WRITING BY {data.site.siteMetadata.siteTitle}</span>
-            <Link to="/blog/" className="near-white sans-serif f5 tracked pv1 db">ALL POSTS</Link>
-            <Link to="/rss.xml" className="near-white sans-serif f5 tracked pv1 db">RSS FEED</Link>
+            <Link to="/blog/" className="near-white sans-serif f5 tracked pv1 db">EXPERIENCE</Link>
+            <Link to="/rss.xml" className="near-white sans-serif f5 tracked pv1 db">PORTFOLIO</Link>
           </div>
           <div className="flex flex-column">
             <span className="near-white sans-serif f5 tracked mb3 db">MORE ON {data.site.siteMetadata.siteTitle}</span>
-            <Link to="/about/" className="near-white sans-serif f5 tracked pv1 db">ABOUT US</Link>
-            <a href={data.site.siteMetadata.mailChimpUrl} className="near-white sans-serif f5 tracked pv1 db">NEWS LETTER</a>
+            <Link to="/about/" className="near-white sans-serif f5 tracked pv1 db">ABOUT ME</Link>
+            <a href={data.site.siteMetadata.mailChimpUrl} className="near-white sans-serif f5 tracked pv1 db">CONTACT</a>
           </div>
         </div>
         <div className="w-100 mw9 center silver mb3">
