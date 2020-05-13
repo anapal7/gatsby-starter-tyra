@@ -6,7 +6,7 @@ author: "Jane Doe"
 category: "makeup"
 date: "2018-01-01"
 slug: "/post"
-postImage: "./img/sydney-australia.jpg"
+postImage: "./img/balloons.jpg"
 metaDescription: "The hottest trends for the coolest season. Check out Tyra product picks and get inspired this holiday season!"
 
 ---
