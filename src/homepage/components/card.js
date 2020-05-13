@@ -3,6 +3,9 @@ import Img from 'gatsby-image';
 import { Link } from 'gatsby';
 import 'tachyons';
 
+<div className="pa2 display dark-gray f3 tc mb3 h3">
+     Experiences
+    </div>
 
 export default (props) => (
   <div className="w-100 mw6 pa2">
