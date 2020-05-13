@@ -6,7 +6,7 @@ author: "Jane Doe"
 category: "lifestyle"
 date: "2018-01-02"
 slug: "/be-yourself"
-postImage: "./img/friends.jpg"
+postImage: "./img/volunteer.jpg"
 metaDescription: "In 2014 I spent 3 months in Rio de Janeiro volunteering in the Fifa World Cup."
 
 ---
